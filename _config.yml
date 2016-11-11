@@ -6,10 +6,10 @@ url: http://www.kuerbb.com
 resume_site: 
 github: https://github.com/kuerbb/
 baseurl: ""
-description: Actually, less is more!
-meta_description: 陈雨声;个人博客;人生坎坷路、拼搏不止步;
-motto: The two most important days in your life are the day you were born and the day you find out why.
-banner: 学而不思则罔，思而不学则殆。
+description: 每月精读一本书，每月撰写一博文。
+meta_description: 陈雨声;个人博客;
+motto: 人生坎坷路、拼搏不止步
+banner: The two most important days in your life are the day you were born and the day you find out why.
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
