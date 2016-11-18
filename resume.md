@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 这就是我
+title: 陈雨声's resume
 permalink: /resume/
 ---
 
