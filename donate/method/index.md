@@ -15,7 +15,7 @@ permlink: /method
 <hr>
 您可以选择手机支付宝扫一扫
 
-<img src="{{ '/styles/images/zhifubao.PNG' | prepend: site.baseurl }}" alt="支付宝二维码付款给Kuerbb" width="219" height=“”219 />
+<img src="{{ '/styles/images/zhifubao.PNG' | prepend: site.baseurl }}" alt="支付宝二维码付款给Kuerbb" width="219" height=“219” />
 
 <br>
 <br>
